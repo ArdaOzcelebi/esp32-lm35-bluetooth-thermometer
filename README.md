@@ -3,8 +3,8 @@ ESP32 tabanlı LM35DZ ile sıcaklık termometresi. RC filtre + oversampling + EM
 
 Donanım:
 
--ESP32 NodeMCU-1.1
--LM35DZ temperature sensor
--1kΩ resistor
--100nF capacitor
--Breadboard + jumper wires
+- ESP32 NodeMCU-1.1
+- LM35DZ temperature sensor
+- 1kΩ resistor
+- 100nF capacitor
+- Breadboard + jumper wires
